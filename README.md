@@ -12,7 +12,7 @@
 
 **`ghasif@github:~/profile$`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=BSCS+Student+%7C+SZABIST+Karachi;Building+from+scratch+to+understand+how+things+work.;Java+%C2%B7+C+%C2%B7+DSA+%C2%B7+Operating+Systems+%C2%B7+Compilers;Currently+navigating+OS%2C+DSA+%26+Compiler+Design.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=BSCS+Student+%7C+SZABIST;Building+from+scratch+to+understand+how+things+work.;Java+%C2%B7+C+%C2%B7+DSA+%C2%B7+Operating+Systems+%C2%B7+Compilers;Currently+navigating+OS%2C+DSA+%26+Compiler+Design.)](https://git.io/typing-svg)
 
 </div>
 
