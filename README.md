@@ -17,7 +17,7 @@
 ```
 Name     : Ghasif Noor
 Uni      : SZABIST University
-Degree   : BS Computer Science — 5th Semester
+Degree   : BS Computer Science — Expected 2027
 Location : Karachi, PK
 Status   : open to collaborate · learning in public
 ```
