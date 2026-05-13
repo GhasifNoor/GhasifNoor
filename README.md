@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3&section=header" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&multiline=false&width=650&lines=ghasif%40github%3A~%24+whoami;%E2%86%92+Ghasif+Noor+%E2%80%94+CS+Student+%40+SZABIST;ghasif%40github%3A~%24+cat+mission.txt;%E2%86%92+Building+from+scratch+to+understand+how+things+work.;ghasif%40github%3A~%24+ls+skills%2F;%E2%86%92+java%2F+++c%2F+++dsa%2F+++os%2F+++compilers%2F;ghasif%40github%3A~%24+%E2%96%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=6EE7B7&center=true&vCenter=true&width=650&lines=Ghasif+Noor+%E2%80%94+CS+Student+%40+SZABIST;Java+%C2%B7+C+%C2%B7+DSA+%C2%B7+OS+%C2%B7+Compiler+Design;Building+from+fundamentals%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
 
 <br/>
 
