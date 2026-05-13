@@ -124,12 +124,11 @@ public class GhasifNoor {
 ## `$ ./connect --social`
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ghasif7890@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghasif-noor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghaisf-noor)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GhasifNoor)
 
 > Open to **internships**, **open-source collaboration**, and **interesting CS problems**.
 > If you're building something or just want to talk code — reach out.
-
 ---
 
 <div align="center">
