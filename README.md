@@ -1,18 +1,12 @@
-<!-- Header -->
 <div align="center">
 
-```
- ██████╗ ██╗  ██╗ █████╗ ███████╗██╗███████╗
-██╔════╝ ██║  ██║██╔══██╗██╔════╝██║██╔════╝
-██║  ███╗███████║███████║███████╗██║█████╗  
-██║   ██║██╔══██║██╔══██║╚════██║██║██╔══╝  
-╚██████╔╝██║  ██║██║  ██║███████║██║██║     
- ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝    
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=6EE7B7&center=true&vCenter=true&width=650&lines=Ghasif+Noor+%E2%80%94+CS+Student+%40+SZABIST;Java+%C2%B7+C+%C2%B7+DSA+%C2%B7+OS+%C2%B7+Compiler+Design;Building+from+fundamentals%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
 
-**`ghasif@github:~/profile$`**
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=BSCS+Student+%7C+SZABIST;Building+from+scratch+to+understand+how+things+work.;Java+%C2%B7+C+%C2%B7+DSA+%C2%B7+Operating+Systems+%C2%B7+Compilers;Currently+navigating+OS%2C+DSA+%26+Compiler+Design.)](https://git.io/typing-svg)
+![Profile Views](https://komarev.com/ghpvc/?username=GhasifNoor&color=6EE7B7&style=flat-square&label=profile+views)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/GhasifNoor?style=flat-square&color=6EE7B7&labelColor=0d1117)
 
 </div>
 
@@ -23,14 +17,12 @@
 ```
 Name     : Ghasif Noor
 Uni      : SZABIST University, Karachi
-Degree   : BS Computer Science
-Semester : 5th
+Degree   : BS Computer Science — 5th Semester
+Location : Karachi, PK
 Status   : open to collaborate · learning in public
 ```
 
-CS student who builds things from scratch to understand how they actually work.
-Focused on fundamentals — systems, algorithms, compilers — because the shortcuts come later.
-Currently navigating Operating Systems, DSA, and Compiler Design one late night at a time.
+CS student focused on understanding how computers work at the core level — not just using frameworks, but knowing the systems underneath them. Currently deep in Operating Systems, Data Structures, and Compiler Design.
 
 ---
 
@@ -41,16 +33,16 @@ Currently navigating Operating Systems, DSA, and Compiler Design one late night 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly_x86-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly_x86-4B3832?style=flat-square&logo=assemblyscript&logoColor=white)
 
-**CS Concepts**
+**CS Fundamentals**
 
 ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-1D9E75?style=flat-square)
 ![OS](https://img.shields.io/badge/Operating_Systems-1D9E75?style=flat-square)
 ![Compilers](https://img.shields.io/badge/Compiler_Design-1D9E75?style=flat-square)
-![Threads](https://img.shields.io/badge/Process_Management_%26_Threading-0F6E56?style=flat-square)
+![Threads](https://img.shields.io/badge/Process_%26_Thread_Management-0F6E56?style=flat-square)
 ![Lexical](https://img.shields.io/badge/Lexical_Analysis-0F6E56?style=flat-square)
-![FIRST](https://img.shields.io/badge/FIRST_%2F_FOLLOW_Sets-0F6E56?style=flat-square)
+![FIRST](https://img.shields.io/badge/FIRST_%26_FOLLOW_Sets-0F6E56?style=flat-square)
 ![JavaCC](https://img.shields.io/badge/JavaCC-085041?style=flat-square)
 ![EMU8086](https://img.shields.io/badge/EMU8086-085041?style=flat-square)
 
@@ -76,26 +68,28 @@ Currently navigating Operating Systems, DSA, and Compiler Design one late night 
 ```java
 public class GhasifNoor {
 
-    String university = "SZABIST, Karachi";
-    String degree     = "BS Computer Science";
-    String semester   = "5th";
+    static final String UNIVERSITY = "SZABIST, Karachi";
+    static final String DEGREE     = "BS Computer Science — 5th Semester";
+    static final String LOCATION   = "Karachi, PK";
 
-    String[] languages = {"Java", "C", "C++", "Assembly x86"};
+    String[] languages = { "Java", "C", "C++", "Assembly x86" };
 
     String[] currentlyStudying = {
-        "Advanced DSA",
+        "Advanced Data Structures & Algorithms",
         "Operating Systems",
         "Compiler Design",
         "Software Development Practices"
     };
 
     String[] strengths = {
-        "Problem Solving",
-        "Team Leadership",
-        "Building from fundamentals"
+        "Problem Solving from first principles",
+        "Team Leadership & Community Work",
+        "Low-level systems understanding"
     };
 
-    String ask_me_about = "DSA, OS concepts, Java, or how a compiler parses code";
+    String askMeAbout() {
+        return "DSA · OS concepts · Java · how a compiler parses code";
+    }
 }
 ```
 
@@ -109,7 +103,7 @@ public class GhasifNoor {
 [ ] Land a CS internship
 [ ] Contribute to an open-source project
 [ ] Build an OS process scheduler simulation
-[ ] Publish what I learn as I go
+[ ] Document and publish what I learn
 ```
 
 ---
@@ -118,15 +112,10 @@ public class GhasifNoor {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GhasifNoor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=c9d1d9" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhasifNoor&theme=tokyonight" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhasifNoor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=GhasifNoor&theme=tokyonight&hide_border=true&background=0d1117&stroke=6EE7B7&ring=6EE7B7&fire=F59E0B&currStreakLabel=6EE7B7)
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhasifNoor&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GhasifNoor&theme=tokyonight" />
 
 </div>
 
@@ -134,8 +123,8 @@ public class GhasifNoor {
 
 ## `$ ./connect --social`
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ghasif7890@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghasif-noor)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GhasifNoor)
 
 > Open to **internships**, **open-source collaboration**, and **interesting CS problems**.
@@ -144,9 +133,5 @@ public class GhasifNoor {
 ---
 
 <div align="center">
-
-`ghasif@github:~/profile$ █`
-
-![Profile Views](https://komarev.com/ghpvc/?username=GhasifNoor&color=6EE7B7&style=flat-square&label=profile+views)
-
+<sub><code>ghasif@github:~/profile$ █</code></sub>
 </div>
