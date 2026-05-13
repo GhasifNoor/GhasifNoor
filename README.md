@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=6EE7B7&center=true&vCenter=true&width=650&lines=Ghasif+Noor+%E2%80%94+CS+Student+%40+SZABIST;Java+%C2%B7+C+%C2%B7+DSA+%C2%B7+OS+%C2%B7+Compiler+Design;Building+from+fundamentals%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=6EE7B7&center=true&vCenter=true&width=650&lines=Ghasif+Noor+%E2%80%94+CS+Student+%40+SZABIST;Java+%C2%B7+C+%C2%B7+DSA+%C2%B7+OS+%C2%B7+Compiler+Design;Currently+Learning+FullStack%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
 
 <br/>
 
